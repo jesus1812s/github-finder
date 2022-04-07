@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with GitHub finder app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a GitHub finder from the course from Udemy [React front to back 2022](https://www.udemy.com/course/react-front-to-back-2022/) made by Brad Traversy.
 
 ## Available Scripts
 
